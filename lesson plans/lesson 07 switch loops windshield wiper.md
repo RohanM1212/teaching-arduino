@@ -293,8 +293,6 @@ Review questions:
 - What happens if your loop condition never becomes false?
 - Why does the button feel more responsive in this code than in earlier lessons?
 
-Next week preview: Piezo buzzer. The circuit makes sound for the first time.
-
 Cleanup:
 - Unplug USB
 - Keep the circuit if possible, some components carry over

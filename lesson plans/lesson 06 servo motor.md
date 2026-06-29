@@ -226,8 +226,6 @@ Review questions:
 - What does map() do and why is it useful?
 - What would happen if you removed the capacitor? (physical track)
 
-Next week preview: Piezo buzzer. The circuit makes sound for the first time.
-
 Cleanup:
 - Unplug USB
 - Be careful removing the servo, the wires pull out easily
