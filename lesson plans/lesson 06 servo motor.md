@@ -149,7 +149,7 @@ Step 4: Wire servo
 
 ### Write Code Together (20 minutes)
 
-Code Reference: See `/code_examples/lesson_06_servo_motor.ino`
+Code Reference: See code_examples/lesson 06 servo motor/
 
 Before typing anything, explain that the servo needs a library. A library is extra code that someone else already wrote that gives us new functions to use. Arduino does not include servo control by default so we have to import it.
 

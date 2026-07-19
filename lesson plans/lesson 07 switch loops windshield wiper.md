@@ -40,7 +40,7 @@ If working with TinkerCAD, each student will need:
 - No capacitor needed in TinkerCAD
 
 ### The Physics (Keep it simple)
-- No new components today. Everything here is from lessons 5 and 6.
+- No new components today. Everything here is from previous lessons.
 - The capacitor is still needed to protect the circuit when the servo moves. (Physical track only)
 
 ## Before Lesson
@@ -172,11 +172,11 @@ Step 4: Wire button
 - One terminal to 5V, other to Pin 7, 10kΩ resistor from Pin 7 to ground
 
 Step 5: Wire LED
-- Anode through 220Ω resistor to Pin 4, cathode to ground
+- Anode to Pin 4, cathode through 220Ω resistor to ground
 
 ### Write Code Together (25 minutes)
 
-Code Reference: See `/code_examples/lesson_07_windshield_wiper.ino`
+Code Reference: See code_examples/lesson 07 windshield wiper/
 
 Most complex code we have done so far. Build it slowly.
 
@@ -346,6 +346,8 @@ The millis() explanation is the most important concept in this lesson. Students 
 Switch statements are cleaner than if else chains but students need to see both side by side to appreciate it. If you have time, write the same logic with if else statements first and then show the switch version. The difference is obvious.
 
 The for loop in case 3 is a perfect example of when to use a for loop over a while loop. You know exactly how many times you want the wiper to pulse. Point that out explicitly.
+
+Note on case 3: this mode deliberately uses delay() inside the for loop, so the button will not respond for about 10 seconds while it runs. If a student notices and asks, that is a good sign. Tell them they have found exactly the problem millis() solves, and ask how they would rewrite case 3 to stay responsive. It makes a strong extension challenge.
 
 Timing:
 - Opening: 5 min

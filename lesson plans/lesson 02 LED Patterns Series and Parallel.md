@@ -143,7 +143,7 @@ Ask the same question: how bright are they now compared to before? Why?
 
 ### Write Code Together (20 minutes)
 
-Code Reference: See `/code_examples/lesson_02_led_patterns.ino`
+Code Reference: Code Reference: See code_examples/lesson 02 led patterns/
 
 Build this together line by line:
 

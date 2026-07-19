@@ -126,7 +126,7 @@ Step 4: Click Code, select Text
 
 ### Write Code Together (20 minutes)
 
-Code Reference: See `/code_examples/lesson_04_potentiometer.ino`
+Code Reference: See code_examples/lesson 04 potentiometer/
 
 Build this line by line:
 

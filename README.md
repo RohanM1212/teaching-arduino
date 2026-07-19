@@ -10,9 +10,26 @@ I built this curriculum and ran it as a live program at my local library. Regist
 
 Eight fully structured 90-minute lessons, taught in person or virtually in TinkerCAD, progressing from a single blinking LED through circuits, buttons, analog input, servos, and core programming concepts like loops and switch statements. The set includes two open-ended capstone projects where students design and build their own circuits, plus working code examples for every non-capstone lesson. Each lesson comes with a full lesson plan, safety notes, common-issues troubleshooting, and teacher guidance.
 
+## The lessons at a glance
+
+| # | Lesson | Students build | Key concept |
+|---|--------|----------------|-------------|
+| 1 | Blinking LED | A single LED that blinks on and off | Circuits, setup vs loop, delay |
+| 2 | LED Patterns | Two LEDs wired in series, then in parallel | Series vs parallel, why brightness changes |
+| 3 | Buttons and Digital Input | An LED controlled by a push button | Digital input, pull-down resistors, if statements |
+| 4 | Potentiometer and Analog Input | An LED that dims as you turn a knob | Analog input, PWM, map(), Serial Monitor |
+| 5 | Capstone 1 | Anything they want, using lessons 1 to 4 | Designing and debugging their own circuit |
+| 6 | Servo Motor | A servo controlled by a knob and a button | Libraries, servo control, mapping ranges |
+| 7 | Switch, Loops, Windshield Wiper | A wiper with four selectable speed modes | switch statements, for and while loops, millis() |
+| 8 | Capstone 2 | Anything they want, using everything | Independent design with a larger toolkit |
+
+Each lesson is about 90 minutes and builds on the one before it.
+
 ## What you need to run it
 
-Either a hardware kit per student (Arduino Uno, breadboard, LEDs, resistors, button, potentiometer, servo, and jumper wires), or just a computer with internet for the free TinkerCAD virtual track. No prior experience with electronics is needed, either to learn from these lessons or to teach them.
+Either a hardware kit per student or just a computer with internet for the free TinkerCAD virtual track. No prior experience with electronics is needed, either to learn from these lessons or to teach them.
+
+If you are buying hardware, you need an Arduino Uno, breadboard, LEDs, resistors, a push button, a potentiometer, a servo motor, and jumper wires. Compatible starter kits that cover every lesson run roughly $30 to $55 per student. Check that the kit includes a servo motor, since lessons 6 through 8 require one. Basic kits under $25 usually leave it out. Prices checked July 2026.
 
 ## How to use / adopt it
 

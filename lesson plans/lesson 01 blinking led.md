@@ -1,7 +1,8 @@
 # Lesson 1 Blinking LED
 
-Estimated Duration: ~90 minutes    
-Prerequisites: First Lesson, so none
+Estimated Duration: ~90 minutes
+Age Group: 11-14 years old
+Prerequisites: None. This is the first lesson.
 
 ## Overview
 
@@ -148,7 +149,7 @@ Step 4: Click "Code" - Select "Text"
 
 ### Write Code Together (20 minutes)
 
-Code Reference: Complete code can be viewed at `/code_examples/lesson_01_blink.ino`
+Code Reference: See code_examples/lesson 01 blink/
 
 Type ONE LINE at a time. Check everyone's screen after each line.
 
@@ -271,6 +272,18 @@ TinkerCAD:
 - Pin 13 in code?
 - Rebuild circuit
 - Built-in LED blinks? (If yes, circuit problem)
+
+## Other Situations
+
+Need support:
+- Build the circuit alongside them step by step instead of demonstrating from the front
+- Let them work in pairs so one student wires while the other checks the diagram
+- Get the LED lighting up first, worry about the code explanation after
+
+Advanced:
+- Can they make the LED blink in a pattern instead of evenly, like two fast blinks then a pause?
+- What is the smallest delay value where the blinking still looks like blinking instead of a dim glow?
+- Can they use the built-in LED on pin 13 and their breadboard LED at the same time?
 
 ## Teacher Notes
 

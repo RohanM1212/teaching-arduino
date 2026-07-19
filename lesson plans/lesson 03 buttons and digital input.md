@@ -136,7 +136,7 @@ Step 4: Click Code, select Text
 
 ### Write Code Together (20 minutes)
 
-Code Reference: See `/code_examples/lesson_03_button_led.ino`
+Code Reference: See code_examples/lesson 03 button led/
 
 Build this line by line with the class:
 
